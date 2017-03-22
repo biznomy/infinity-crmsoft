@@ -1,0 +1,1 @@
+python extract_emails.py biznomy.com >> myResult.txt

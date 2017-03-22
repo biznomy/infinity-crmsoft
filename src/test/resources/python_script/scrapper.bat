@@ -1,0 +1,1 @@
+call python C:\tempDir\python_script\extract_emails.py %website% --dataId %dataId% -v >> ResultLog.txt

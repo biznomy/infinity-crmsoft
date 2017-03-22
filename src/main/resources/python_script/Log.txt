@@ -1,0 +1,2 @@
+
+D:\ServerCode\crmsoft>call python C:\tempDir\python_script\extract_emails.py www.delhi.gov.in --dataId 16040511412772 -v  1>>ResultLog.txt 
