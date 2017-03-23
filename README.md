@@ -6,7 +6,7 @@ The infinity-crmsoft is an open source initiative of Technolabs  to get all the 
 
 	 Spring MVC CRM Project
 
-![Alt text](/docs/images/001.jpg?raw=true "Company List Page")
+![Alt text](/docs/images/001.png?raw=true "Company List Page")
 
 
 ### main-url
